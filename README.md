@@ -6,7 +6,7 @@ How to Use
 # Get started
 To begin with GPTinf, just go to https://www.gptinf.com and type in the content that you wish to change in the given text box. After inputting your text, click the button and wait for GPTinf to process it. You will get rephrased chatGPT text.
 
-GPTinf is easy to comprehend and anyone can utilize it without having any technical information or usable skill. Just by a few key presses, you can beat any text identification tools and make sure that your dialogue remains undetected.
+GPTinf is easy to comprehend and anyone can utilize it without having any technical information or usable skill. Just by a few key presses, you can beat any text identification tools and make sure that your AI-usage remains undetected.
 
 
 # Benefits of GPTinf
@@ -24,6 +24,6 @@ GPTinf is easy to comprehend and anyone can utilize it without having any techni
 
 # Final Thoughts
 
-GPTinf is an amazing tool to anyone who wants to guarantee that their messages stay unseen by text recognition tools. It is simple to utilize, quick, and successful, and best of all, it is absolutely free. If you want to protect your messages from being found, make sure to try GPTinf!
+GPTinf is an amazing tool to anyone who wants to guarantee that their text stay unseen by AI recognition tools. It is simple to utilize, quick, and successful. If you want to protect your messages, essay, emails, or articles from being found as AI-written, make sure to try GPTinf!
 
-# This text was written by chatGPT
+### This text was written by chatGPT
