@@ -1,3 +1,5 @@
+# Bypass GPTZero or any other AI-content detection
+
 # GPTinf
 
 GPTinf is a great tool for avoiding ai-generated content detection. It is easy to utilize and can help you to evade text recognition tools like GPTzero or another AI text detector. This utility can be used to rewrite chatGPT text and render it undetected.
